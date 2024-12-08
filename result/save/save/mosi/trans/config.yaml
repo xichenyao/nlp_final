@@ -1,0 +1,56 @@
+general:
+  batch_size: 4
+  dataset: mosi
+  device_ids:
+  - 0
+  do_regre: true
+  do_trans: true
+  seed: 123456
+regression:
+  a_size: 5
+  dropout: 0.5
+  epoch: 30
+  hidden_size: 100
+  lr: 0.001
+  mask_theta: 0.1
+  mask_topk: 5
+  max_len: 128
+  mi_mask_type: topk
+  mp_mask_type: topk
+  num_layers: 1
+  save_path: ./save/mosei/regre/
+  use_mi: true
+  use_mp: true
+  v_size: 20
+  w_size: 300
+  weight_decay: 0.0
+translation:
+  epoch: 5
+  lr: 0.001
+  max_len: 128
+  save_path: ./save/mosei/trans/
+  weight_decay: 0.0
+w2a_model:
+  decoder_dropout: 0.1
+  decoder_hidden_size: 100
+  decoder_input_size: 200
+  decoder_num_layers: 1
+  decoder_output_size: 100
+  encoder_dropout: 0.1
+  encoder_hidden_size: 100
+  encoder_num_layers: 1
+  max_len: 128
+  source_size: 300
+  target_size: 5
+w2v_model:
+  decoder_dropout: 0.1
+  decoder_hidden_size: 100
+  decoder_input_size: 200
+  decoder_num_layers: 1
+  decoder_output_size: 100
+  encoder_dropout: 0.1
+  encoder_hidden_size: 100
+  encoder_num_layers: 1
+  max_len: 128
+  source_size: 300
+  target_size: 20
