@@ -342,7 +342,7 @@ class SoftAttention(nn.Module):
         return attn_out, attn_weights  # (batch_size, hidden_dim), (batch_size, len, 1)
 
 # BERT-based model for Regression and Emotion Classification
-class RegressionWithBERT(nn.Module):
+class Regression(nn.Module):
     def __init__(self, config):
         super(RegressionWithBERT, self).__init__()
         self.config = config
