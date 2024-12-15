@@ -19,7 +19,14 @@ class Translation(nn.Module):
                                hidden_size=config["encoder_hidden_size"],
                                num_layers=config["encoder_num_layers"],
                                dropout=config["encoder_dropout"])
-        self.bn = nn.BatchNorm1d(config["encoder_hidden_size"])
+        
+        
+        
+        #尝试优化在处理LSTM的输出时进行批量归一化是有益的，但可能会导致训练不稳定。可以尝试将批量归一化应用于中间层而非最终输出，或者使用其他归一化方法（如LayerNorm）来替代。
+        #修改建议：可以将 self.bn 替换为 LayerNorm，这对于RNN（LSTM）输出可能更稳定。
+        self.bn = nn.LayerNorm(config["encoder_hidden_size"])
+
+        #self.bn = nn.BatchNorm1d(config["encoder_hidden_size"])
         self.decoder = nn.LSTM(input_size=config["decoder_input_size"],
                                hidden_size=config["decoder_hidden_size"],
                                num_layers=config["decoder_num_layers"],
@@ -111,6 +118,12 @@ class Translation(nn.Module):
 
 
 class CrossAttention(nn.Module):
+    #尝试优化交叉注意力和软注意力中的权重初始化方式没有明确提及。建议使用更标准的初始化方法（如xavier_uniform或kaiming_uniform），以帮助模型更快收敛。
+    
+    #nn.init.xavier_uniform_(self.attn_1.weight)
+    #nn.init.xavier_uniform_(self.attn_2.weight)
+
+
     def __init__(self, encoder_hidden_size, decoder_hidden_size):
         super(CrossAttention, self).__init__()
         self.attn_1 = nn.Linear(encoder_hidden_size*2, decoder_hidden_size)
@@ -134,6 +147,10 @@ class CrossAttention(nn.Module):
 
 
 class SoftAttention(nn.Module):
+    #尝试优化交叉注意力和软注意力中的权重初始化方式没有明确提及。建议使用更标准的初始化方法（如xavier_uniform或kaiming_uniform），以帮助模型更快收敛。
+    
+    #nn.init.xavier_uniform_(self.attn_1.weight)
+    #nn.init.xavier_uniform_(self.attn_2.weight)
     def __init__(self, hidden_size):
         super(SoftAttention, self).__init__()
         self.attn = nn.Linear(hidden_size, 1)
