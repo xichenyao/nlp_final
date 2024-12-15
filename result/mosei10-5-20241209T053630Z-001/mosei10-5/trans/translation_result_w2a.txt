@@ -1,0 +1,61 @@
+
+EPOCH 0 | Train loss: 1.547
+EPOCH 0 | Validtation loss: 1.4912
+EPOCH 0 | Current learning rate: 0.001
+EPOCH 1 | Train loss: 1.4991
+EPOCH 1 | Validtation loss: 1.5293
+EPOCH 1 | Current learning rate: 0.001
+EPOCH 2 | Train loss: 1.4935
+EPOCH 2 | Validtation loss: 1.5141
+EPOCH 2 | Current learning rate: 0.001
+EPOCH 3 | Train loss: 1.4861
+EPOCH 3 | Validtation loss: 1.5118
+EPOCH 3 | Current learning rate: 0.001
+EPOCH 4 | Train loss: 1.4869
+EPOCH 4 | Validtation loss: 1.5357
+EPOCH 4 | Current learning rate: 0.001
+EPOCH 5 | Train loss: 1.4879
+EPOCH 5 | Validtation loss: 1.4909
+EPOCH 5 | Current learning rate: 0.001
+EPOCH 6 | Train loss: 1.4837
+EPOCH 6 | Validtation loss: 1.5176
+EPOCH 6 | Current learning rate: 0.001
+EPOCH 7 | Train loss: 1.4754
+EPOCH 7 | Validtation loss: 1.5417
+EPOCH 7 | Current learning rate: 0.001
+EPOCH 8 | Train loss: 1.4824
+EPOCH 8 | Validtation loss: 1.5267
+EPOCH 8 | Current learning rate: 0.001
+EPOCH 9 | Train loss: 1.4832
+EPOCH 9 | Validtation loss: 1.501
+EPOCH 9 | Current learning rate: 0.001
+EPOCH 0 | Train loss: 1.547
+EPOCH 0 | Validtation loss: 1.4912
+EPOCH 0 | Current learning rate: 0.001
+EPOCH 1 | Train loss: 1.4991
+EPOCH 1 | Validtation loss: 1.5293
+EPOCH 1 | Current learning rate: 0.001
+EPOCH 2 | Train loss: 1.4935
+EPOCH 2 | Validtation loss: 1.5141
+EPOCH 2 | Current learning rate: 0.001
+EPOCH 3 | Train loss: 1.4861
+EPOCH 3 | Validtation loss: 1.5118
+EPOCH 3 | Current learning rate: 0.001
+EPOCH 4 | Train loss: 1.4869
+EPOCH 4 | Validtation loss: 1.5357
+EPOCH 4 | Current learning rate: 0.001
+EPOCH 5 | Train loss: 1.4879
+EPOCH 5 | Validtation loss: 1.4909
+EPOCH 5 | Current learning rate: 0.001
+EPOCH 6 | Train loss: 1.4837
+EPOCH 6 | Validtation loss: 1.5176
+EPOCH 6 | Current learning rate: 0.001
+EPOCH 7 | Train loss: 1.4754
+EPOCH 7 | Validtation loss: 1.5417
+EPOCH 7 | Current learning rate: 0.001
+EPOCH 8 | Train loss: 1.4824
+EPOCH 8 | Validtation loss: 1.5267
+EPOCH 8 | Current learning rate: 0.001
+EPOCH 9 | Train loss: 1.4832
+EPOCH 9 | Validtation loss: 1.501
+EPOCH 9 | Current learning rate: 0.001

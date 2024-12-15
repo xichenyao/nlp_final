@@ -1,0 +1,241 @@
+
+EPOCH 0 | Train loss: 0.3315
+EPOCH 0 | Validtation loss: 0.276
+EPOCH 0 | Current learning rate: 0.001
+EPOCH 1 | Train loss: 0.2658
+EPOCH 1 | Validtation loss: 0.2688
+EPOCH 1 | Current learning rate: 0.001
+EPOCH 2 | Train loss: 0.2515
+EPOCH 2 | Validtation loss: 0.258
+EPOCH 2 | Current learning rate: 0.001
+EPOCH 3 | Train loss: 0.2637
+EPOCH 3 | Validtation loss: 0.2554
+EPOCH 3 | Current learning rate: 0.001
+EPOCH 4 | Train loss: 0.2603
+EPOCH 4 | Validtation loss: 0.2567
+EPOCH 4 | Current learning rate: 0.001
+EPOCH 5 | Train loss: 0.2555
+EPOCH 5 | Validtation loss: 0.2337
+EPOCH 5 | Current learning rate: 0.001
+EPOCH 6 | Train loss: 0.2505
+EPOCH 6 | Validtation loss: 0.2572
+EPOCH 6 | Current learning rate: 0.001
+EPOCH 7 | Train loss: 0.2463
+EPOCH 7 | Validtation loss: 0.2399
+EPOCH 7 | Current learning rate: 0.001
+EPOCH 8 | Train loss: 0.2481
+EPOCH 8 | Validtation loss: 0.2541
+EPOCH 8 | Current learning rate: 0.001
+EPOCH 9 | Train loss: 0.2421
+EPOCH 9 | Validtation loss: 0.2457
+EPOCH 9 | Current learning rate: 0.001
+EPOCH 10 | Train loss: 0.2529
+EPOCH 10 | Validtation loss: 0.2453
+EPOCH 10 | Current learning rate: 0.001
+EPOCH 11 | Train loss: 0.26
+EPOCH 11 | Validtation loss: 0.2393
+EPOCH 11 | Current learning rate: 0.001
+EPOCH 12 | Train loss: 0.2523
+EPOCH 12 | Validtation loss: 0.2456
+EPOCH 12 | Current learning rate: 0.0001
+EPOCH 13 | Train loss: 0.2535
+EPOCH 13 | Validtation loss: 0.2654
+EPOCH 13 | Current learning rate: 0.0001
+EPOCH 14 | Train loss: 0.2474
+EPOCH 14 | Validtation loss: 0.248
+EPOCH 14 | Current learning rate: 0.0001
+EPOCH 15 | Train loss: 0.256
+EPOCH 15 | Validtation loss: 0.2416
+EPOCH 15 | Current learning rate: 0.0001
+EPOCH 16 | Train loss: 0.259
+EPOCH 16 | Validtation loss: 0.2473
+EPOCH 16 | Current learning rate: 0.0001
+EPOCH 17 | Train loss: 0.2512
+EPOCH 17 | Validtation loss: 0.248
+EPOCH 17 | Current learning rate: 0.0001
+EPOCH 18 | Train loss: 0.2489
+EPOCH 18 | Validtation loss: 0.2442
+EPOCH 18 | Current learning rate: 1e-05
+EPOCH 19 | Train loss: 0.2442
+EPOCH 19 | Validtation loss: 0.2439
+EPOCH 19 | Current learning rate: 1e-05
+EPOCH 20 | Train loss: 0.2407
+EPOCH 20 | Validtation loss: 0.253
+EPOCH 20 | Current learning rate: 1e-05
+EPOCH 21 | Train loss: 0.256
+EPOCH 21 | Validtation loss: 0.2392
+EPOCH 21 | Current learning rate: 1e-05
+EPOCH 22 | Train loss: 0.2521
+EPOCH 22 | Validtation loss: 0.2459
+EPOCH 22 | Current learning rate: 1e-05
+EPOCH 23 | Train loss: 0.2482
+EPOCH 23 | Validtation loss: 0.2511
+EPOCH 23 | Current learning rate: 1e-05
+EPOCH 24 | Train loss: 0.2571
+EPOCH 24 | Validtation loss: 0.2464
+EPOCH 24 | Current learning rate: 1.0000000000000002e-06
+EPOCH 25 | Train loss: 0.2537
+EPOCH 25 | Validtation loss: 0.2458
+EPOCH 25 | Current learning rate: 1.0000000000000002e-06
+EPOCH 26 | Train loss: 0.2481
+EPOCH 26 | Validtation loss: 0.2517
+EPOCH 26 | Current learning rate: 1.0000000000000002e-06
+EPOCH 27 | Train loss: 0.2454
+EPOCH 27 | Validtation loss: 0.2469
+EPOCH 27 | Current learning rate: 1.0000000000000002e-06
+EPOCH 28 | Train loss: 0.2465
+EPOCH 28 | Validtation loss: 0.2413
+EPOCH 28 | Current learning rate: 1.0000000000000002e-06
+EPOCH 29 | Train loss: 0.2424
+EPOCH 29 | Validtation loss: 0.2447
+EPOCH 29 | Current learning rate: 1.0000000000000002e-06
+EPOCH 30 | Train loss: 0.2505
+EPOCH 30 | Validtation loss: 0.2633
+EPOCH 30 | Current learning rate: 1.0000000000000002e-07
+EPOCH 31 | Train loss: 0.2525
+EPOCH 31 | Validtation loss: 0.2438
+EPOCH 31 | Current learning rate: 1.0000000000000002e-07
+EPOCH 32 | Train loss: 0.2442
+EPOCH 32 | Validtation loss: 0.2445
+EPOCH 32 | Current learning rate: 1.0000000000000002e-07
+EPOCH 33 | Train loss: 0.2525
+EPOCH 33 | Validtation loss: 0.2661
+EPOCH 33 | Current learning rate: 1.0000000000000002e-07
+EPOCH 34 | Train loss: 0.2424
+EPOCH 34 | Validtation loss: 0.2781
+EPOCH 34 | Current learning rate: 1.0000000000000002e-07
+EPOCH 35 | Train loss: 0.2529
+EPOCH 35 | Validtation loss: 0.2529
+EPOCH 35 | Current learning rate: 1.0000000000000002e-07
+EPOCH 36 | Train loss: 0.2478
+EPOCH 36 | Validtation loss: 0.2443
+EPOCH 36 | Current learning rate: 1.0000000000000004e-08
+EPOCH 37 | Train loss: 0.2526
+EPOCH 37 | Validtation loss: 0.2525
+EPOCH 37 | Current learning rate: 1.0000000000000004e-08
+EPOCH 38 | Train loss: 0.2598
+EPOCH 38 | Validtation loss: 0.2331
+EPOCH 38 | Current learning rate: 1.0000000000000004e-08
+EPOCH 39 | Train loss: 0.256
+EPOCH 39 | Validtation loss: 0.2371
+EPOCH 39 | Current learning rate: 1.0000000000000004e-08
+EPOCH 0 | Train loss: 0.3315
+EPOCH 0 | Validtation loss: 0.276
+EPOCH 0 | Current learning rate: 0.001
+EPOCH 1 | Train loss: 0.2658
+EPOCH 1 | Validtation loss: 0.2688
+EPOCH 1 | Current learning rate: 0.001
+EPOCH 2 | Train loss: 0.2515
+EPOCH 2 | Validtation loss: 0.258
+EPOCH 2 | Current learning rate: 0.001
+EPOCH 3 | Train loss: 0.2637
+EPOCH 3 | Validtation loss: 0.2554
+EPOCH 3 | Current learning rate: 0.001
+EPOCH 4 | Train loss: 0.2603
+EPOCH 4 | Validtation loss: 0.2567
+EPOCH 4 | Current learning rate: 0.001
+EPOCH 5 | Train loss: 0.2555
+EPOCH 5 | Validtation loss: 0.2337
+EPOCH 5 | Current learning rate: 0.001
+EPOCH 6 | Train loss: 0.2505
+EPOCH 6 | Validtation loss: 0.2572
+EPOCH 6 | Current learning rate: 0.001
+EPOCH 7 | Train loss: 0.2463
+EPOCH 7 | Validtation loss: 0.2399
+EPOCH 7 | Current learning rate: 0.001
+EPOCH 8 | Train loss: 0.2481
+EPOCH 8 | Validtation loss: 0.2541
+EPOCH 8 | Current learning rate: 0.001
+EPOCH 9 | Train loss: 0.2421
+EPOCH 9 | Validtation loss: 0.2457
+EPOCH 9 | Current learning rate: 0.001
+EPOCH 10 | Train loss: 0.2529
+EPOCH 10 | Validtation loss: 0.2453
+EPOCH 10 | Current learning rate: 0.001
+EPOCH 11 | Train loss: 0.26
+EPOCH 11 | Validtation loss: 0.2393
+EPOCH 11 | Current learning rate: 0.001
+EPOCH 12 | Train loss: 0.2523
+EPOCH 12 | Validtation loss: 0.2456
+EPOCH 12 | Current learning rate: 0.0001
+EPOCH 13 | Train loss: 0.2535
+EPOCH 13 | Validtation loss: 0.2654
+EPOCH 13 | Current learning rate: 0.0001
+EPOCH 14 | Train loss: 0.2474
+EPOCH 14 | Validtation loss: 0.248
+EPOCH 14 | Current learning rate: 0.0001
+EPOCH 15 | Train loss: 0.256
+EPOCH 15 | Validtation loss: 0.2416
+EPOCH 15 | Current learning rate: 0.0001
+EPOCH 16 | Train loss: 0.259
+EPOCH 16 | Validtation loss: 0.2473
+EPOCH 16 | Current learning rate: 0.0001
+EPOCH 17 | Train loss: 0.2512
+EPOCH 17 | Validtation loss: 0.248
+EPOCH 17 | Current learning rate: 0.0001
+EPOCH 18 | Train loss: 0.2489
+EPOCH 18 | Validtation loss: 0.2442
+EPOCH 18 | Current learning rate: 1e-05
+EPOCH 19 | Train loss: 0.2442
+EPOCH 19 | Validtation loss: 0.2439
+EPOCH 19 | Current learning rate: 1e-05
+EPOCH 20 | Train loss: 0.2407
+EPOCH 20 | Validtation loss: 0.253
+EPOCH 20 | Current learning rate: 1e-05
+EPOCH 21 | Train loss: 0.256
+EPOCH 21 | Validtation loss: 0.2392
+EPOCH 21 | Current learning rate: 1e-05
+EPOCH 22 | Train loss: 0.2521
+EPOCH 22 | Validtation loss: 0.2459
+EPOCH 22 | Current learning rate: 1e-05
+EPOCH 23 | Train loss: 0.2482
+EPOCH 23 | Validtation loss: 0.2511
+EPOCH 23 | Current learning rate: 1e-05
+EPOCH 24 | Train loss: 0.2571
+EPOCH 24 | Validtation loss: 0.2464
+EPOCH 24 | Current learning rate: 1.0000000000000002e-06
+EPOCH 25 | Train loss: 0.2537
+EPOCH 25 | Validtation loss: 0.2458
+EPOCH 25 | Current learning rate: 1.0000000000000002e-06
+EPOCH 26 | Train loss: 0.2481
+EPOCH 26 | Validtation loss: 0.2517
+EPOCH 26 | Current learning rate: 1.0000000000000002e-06
+EPOCH 27 | Train loss: 0.2454
+EPOCH 27 | Validtation loss: 0.2469
+EPOCH 27 | Current learning rate: 1.0000000000000002e-06
+EPOCH 28 | Train loss: 0.2465
+EPOCH 28 | Validtation loss: 0.2413
+EPOCH 28 | Current learning rate: 1.0000000000000002e-06
+EPOCH 29 | Train loss: 0.2424
+EPOCH 29 | Validtation loss: 0.2447
+EPOCH 29 | Current learning rate: 1.0000000000000002e-06
+EPOCH 30 | Train loss: 0.2505
+EPOCH 30 | Validtation loss: 0.2633
+EPOCH 30 | Current learning rate: 1.0000000000000002e-07
+EPOCH 31 | Train loss: 0.2525
+EPOCH 31 | Validtation loss: 0.2438
+EPOCH 31 | Current learning rate: 1.0000000000000002e-07
+EPOCH 32 | Train loss: 0.2442
+EPOCH 32 | Validtation loss: 0.2445
+EPOCH 32 | Current learning rate: 1.0000000000000002e-07
+EPOCH 33 | Train loss: 0.2525
+EPOCH 33 | Validtation loss: 0.2661
+EPOCH 33 | Current learning rate: 1.0000000000000002e-07
+EPOCH 34 | Train loss: 0.2424
+EPOCH 34 | Validtation loss: 0.2781
+EPOCH 34 | Current learning rate: 1.0000000000000002e-07
+EPOCH 35 | Train loss: 0.2529
+EPOCH 35 | Validtation loss: 0.2529
+EPOCH 35 | Current learning rate: 1.0000000000000002e-07
+EPOCH 36 | Train loss: 0.2478
+EPOCH 36 | Validtation loss: 0.2443
+EPOCH 36 | Current learning rate: 1.0000000000000004e-08
+EPOCH 37 | Train loss: 0.2526
+EPOCH 37 | Validtation loss: 0.2525
+EPOCH 37 | Current learning rate: 1.0000000000000004e-08
+EPOCH 38 | Train loss: 0.2598
+EPOCH 38 | Validtation loss: 0.2331
+EPOCH 38 | Current learning rate: 1.0000000000000004e-08
+EPOCH 39 | Train loss: 0.256
+EPOCH 39 | Validtation loss: 0.2371
+EPOCH 39 | Current learning rate: 1.0000000000000004e-08

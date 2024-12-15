@@ -1,0 +1,42 @@
+
+EPOCH 0 | Train loss: 0.731
+EPOCH 0 | Validtation loss: 0.6352
+EPOCH 0 | Current learning rate: 0.001
+EPOCH 1 | Train loss: 0.643
+EPOCH 1 | Validtation loss: 0.6013
+EPOCH 1 | Current learning rate: 0.001
+EPOCH 2 | Train loss: 0.6067
+EPOCH 2 | Validtation loss: 0.5938
+EPOCH 2 | Current learning rate: 0.001
+EPOCH 3 | Train loss: 0.5832
+EPOCH 3 | Validtation loss: 0.6152
+EPOCH 3 | Current learning rate: 0.001
+EPOCH 4 | Train loss: 0.5601
+EPOCH 4 | Validtation loss: 0.6047
+EPOCH 4 | Current learning rate: 0.001
+Test loss: 0.607
+Test set accuracy is 0.8017596920538905
+Test set f1 score is 0.8027365462169057
+Test set MAE is 0.60700417
+Test set Corr is 0.6871660167943332
+
+EPOCH 0 | Train loss: 0.731
+EPOCH 0 | Validtation loss: 0.6352
+EPOCH 0 | Current learning rate: 0.001
+EPOCH 1 | Train loss: 0.643
+EPOCH 1 | Validtation loss: 0.6013
+EPOCH 1 | Current learning rate: 0.001
+EPOCH 2 | Train loss: 0.6067
+EPOCH 2 | Validtation loss: 0.5938
+EPOCH 2 | Current learning rate: 0.001
+EPOCH 3 | Train loss: 0.5832
+EPOCH 3 | Validtation loss: 0.6152
+EPOCH 3 | Current learning rate: 0.001
+EPOCH 4 | Train loss: 0.5601
+EPOCH 4 | Validtation loss: 0.6047
+EPOCH 4 | Current learning rate: 0.001
+Test loss: 0.607
+Test set accuracy is 0.8017596920538905
+Test set f1 score is 0.8027365462169057
+Test set MAE is 0.60700417
+Test set Corr is 0.6871660167943332
